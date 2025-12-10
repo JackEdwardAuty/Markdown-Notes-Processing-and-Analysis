@@ -1,0 +1,902 @@
+Time,Medication,Dosage,date,filename,folder,section_type
+03:30,Ritalin IR,5mg,2024-10-29,2024-10-29.md,2024-10,Prescription
+03:30,Fexofenadine,120mg,2024-10-29,2024-10-29.md,2024-10,OTC
+00:10,Ritalin IR,5mg,2024-10-31,2024-10-31.md,2024-10,Prescription
+00:10,Fexofenadine,120mg,2024-10-31,2024-10-31.md,2024-10,OTC
+04:00,Paracetamol,2x500mg,2024-10-31,2024-10-31.md,2024-10,OTC
+03:37,Magnesium Oxide,500mg,2024-10-31,2024-10-31.md,2024-10,OTC
+15:00,"Flu Plus (phenylephrine, paracetamol, caffeine)",2 tabs,2024-11-17,2024-11-17.md,2024-11,OTC
+10:40,Ritalin XR,2x18mg,2024-11-24,2024-11-24.md,2024-11,Prescription
+08:55,Fexofenadine,120mg,2024-11-24,2024-11-24.md,2024-11,OTC
+13:15,Ritalin XR,2x18mg,2024-11-21,2024-11-21.md,2024-11,Prescription
+06:10,Fexofenadine,120mg,2024-11-10,2024-11-10.md,2024-11,OTC
+03:35,Loratadine,10mg,2024-11-12,2024-11-12.md,2024-11,OTC
+"10:30, 14:00",Ritalin IR,5mg,2024-11-09,2024-11-09.md,2024-11,Prescription
+09:30,Ritalin IR,5mg,2024-11-30,2024-11-30.md,2024-11,Prescription
+08:30,Fexofenadine,120mg,2024-11-30,2024-11-30.md,2024-11,OTC
+13:53,Ritalin IR,5mg,2024-11-08,2024-11-08.md,2024-11,Prescription
+09:30,Fexofenadine,120mg,2024-11-08,2024-11-08.md,2024-11,OTC
+Time,Alcohol,Amount,2024-11-08,2024-11-08.md,2024-11,OTC
+----,-------------------,------,2024-11-08,2024-11-08.md,2024-11,OTC
+Time,Medication,Dosage,2024-11-08,2024-11-08.md,2024-11,OTC
+------,---------------,---------,2024-11-08,2024-11-08.md,2024-11,OTC
+12:43,Fexofenadine,120mg,2024-11-14,2024-11-14.md,2024-11,OTC
+12:20,Ritalin XR,2x18mg,2024-11-26,2024-11-26.md,2024-11,Prescription
+12:20,Fexofenadine,120mg,2024-11-26,2024-11-26.md,2024-11,OTC
+13:14,Vitamin D3,2x2000IU,2024-11-26,2024-11-26.md,2024-11,OTC
+14:25,Ritalin IR,5mg,2024-11-20,2024-11-20.md,2024-11,Prescription
+10:24,Fexofenadine,120mg,2024-11-20,2024-11-20.md,2024-11,OTC
+15;:44,Ritalin IR,5mg,2024-11-15,2024-11-15.md,2024-11,Prescription
+15:44,Fexofenadine,120mg,2024-11-15,2024-11-15.md,2024-11,OTC
+19:00,Fexofenadine,120mg,2024-11-27,2024-11-27.md,2024-11,OTC
+09:20,Ritalin XR,2x18mg,2024-11-05,2024-11-05.md,2024-11,Prescription
+07:38,Fexofenadine,120mg,2024-11-05,2024-11-05.md,2024-11,OTC
+05:50,Paracetamol,2x500mg,2024-11-05,2024-11-05.md,2024-11,OTC
+"19:10, 21:34",Ritalin IR,5mg,2024-11-28,2024-11-28.md,2024-11,Prescription
+19:17,Fexofenadine,120mg,2024-11-28,2024-11-28.md,2024-11,OTC
+08:28,Fexofenadine,120mg,2024-11-06,2024-11-06.md,2024-11,OTC
+09:45-50,Ritalin XR,2x18mg,2024-11-11,2024-11-11.md,2024-11,Prescription
+01:07,Loratadine,10mg,2024-11-11,2024-11-11.md,2024-11,OTC
+11:00,Ritalin XR,2x18mg,2024-11-23,2024-11-23.md,2024-11,Prescription
+11:00,Fexofenadine,120mg,2024-11-23,2024-11-23.md,2024-11,OTC
+"04:50, 18:37",Ritalin IR,5mg,2024-11-02,2024-11-02.md,2024-11,Prescription
+02:55,Fexofenadine,120mg,2024-11-02,2024-11-02.md,2024-11,OTC
+"16:15, 18:35",Ritalin IR,5mg,2024-11-22,2024-11-22.md,2024-11,Prescription
+22:32,Fexofenadine,120mg,2024-11-22,2024-11-22.md,2024-11,OTC
+"11:25~, 14:30~, 18:41",Ritalin IR,5mg,2024-11-16,2024-11-16.md,2024-11,Prescription
+23:15,Fexofenadine,120mg,2024-11-16,2024-11-16.md,2024-11,OTC
+06:58,Loratadine,10mg,2024-11-16,2024-11-16.md,2024-11,OTC
+01:21,Fexofenadine,120mg,2024-11-13,2024-11-13.md,2024-11,OTC
+08:58,Fexofenadine,120mg,2024-11-03,2024-11-03.md,2024-11,OTC
+16:00,Ritalin IR,5mg,2024-11-19,2024-11-19.md,2024-11,Prescription
+01:18,Fexofenadine,120mg,2024-11-19,2024-11-19.md,2024-11,OTC
+08:45,Loratadine,10mg,2024-11-19,2024-11-19.md,2024-11,OTC
+01:06,Ritalin IR,2.5mg,2024-11-04,2024-11-04.md,2024-11,Prescription
+"01:07, 20:30",Fexofenadine,120mg,2024-11-04,2024-11-04.md,2024-11,OTC
+00:01,Paracetamol,2x500mg,2024-11-04,2024-11-04.md,2024-11,OTC
+18:27,Fexofenadine,1 (tab),2024-11-25,2024-11-25.md,2024-11,Medication
+03:02≤,Fexofenadine,120mg,2024-11-18,2024-11-18.md,2024-11,OTC
+04:34,Fexofenadine,120mg,2024-11-07,2024-11-07.md,2024-11,OTC
+09:45,Magnesium Oxide,500mg,2024-11-07,2024-11-07.md,2024-11,OTC
+10:10,Ritalin XR,2x18mg,2024-11-29,2024-11-29.md,2024-11,Prescription
+10:10,Fexofenadine,120mg,2024-11-29,2024-11-29.md,2024-11,OTC
+11:22,Ritalin XR,2x18mg,2025-01-19,2025-01-19.md,2025-01,Prescription
+"07:58, 22:41",Ritalin IR,5mg,2025-01-19,2025-01-19.md,2025-01,Prescription
+08:33,Ritalin XR,2x18mg,2025-01-13,2025-01-13.md,2025-01,Prescription
+04:24,Ritalin IR,5mg,2025-01-13,2025-01-13.md,2025-01,Prescription
+02:10,Fexofenadine,120mg,2025-01-13,2025-01-13.md,2025-01,OTC
+08:26,Ritalin XR,2x18mg,2025-01-15,2025-01-15.md,2025-01,Prescription
+05:30,Fexofenadine,120mg,2025-01-15,2025-01-15.md,2025-01,OTC
+23:00,Robitussin Guaifenesin,5ml,2025-01-15,2025-01-15.md,2025-01,OTC
+20:30,Ritalin IR,5mg,2025-01-14,2025-01-14.md,2025-01,Prescription
+18:12,Fexofenadine,120mg,2025-01-14,2025-01-14.md,2025-01,OTC
+04:45,Robitussin,5ml,2025-01-14,2025-01-14.md,2025-01,OTC
+12:4=,Ritalin XR,2x18mg,2025-01-17,2025-01-17.md,2025-01,Prescription
+08:26,Fexofenadine,120mg,2025-01-17,2025-01-17.md,2025-01,OTC
+"23:08, 03:49",Ritalin IR,5mg,2025-01-07,2025-01-07.md,2025-01,Prescription
+22:40,Fexofenadine,120mg,2025-01-07,2025-01-07.md,2025-01,OTC
+16:12,Ritalin XR,2x18mg,2025-01-20,2025-01-20.md,2025-01,Prescription
+15:20,Fexofenadine,120mg,2025-01-20,2025-01-20.md,2025-01,OTC
+10:15,Ritalin XR,2x18mg,2025-01-26,2025-01-26.md,2025-01,Prescription
+07:00,Fexofenadine,120mg,2025-01-26,2025-01-26.md,2025-01,OTC
+"20:32, 03:12, 05:00",Ritalin IR,5mg,2025-01-04,2025-01-04.md,2025-01,Prescription
+20:32,Fexofenadine,120mg,2025-01-04,2025-01-04.md,2025-01,OTC
+13:13,Ritalin XR,2x18mg,2025-01-28,2025-01-28.md,2025-01,Prescription
+14:15,Fexofenadine,120mg,2025-01-28,2025-01-28.md,2025-01,OTC
+"20:40, 01:45",Ritalin IR,5mg,2025-01-23,2025-01-23.md,2025-01,Prescription
+20:40,Fexofenadine,120mg,2025-01-23,2025-01-23.md,2025-01,OTC
+"21:40, 00:25",Ritalin IR,5mg,2025-01-03,2025-01-03.md,2025-01,Prescription
+08:44,Fexofenadine,120mg,2025-01-03,2025-01-03.md,2025-01,OTC
+"19:32, 22:06",Ritalin IR,5mg,2025-01-06,2025-01-06.md,2025-01,Prescription
+18:38,Paracetamol,2x500mg,2025-01-06,2025-01-06.md,2025-01,OTC
+21:49,Ritalin IR,5mg,2025-01-08,2025-01-08.md,2025-01,Prescription
+22:20,Vitamin D3,2000IU,2025-01-08,2025-01-08.md,2025-01,OTC
+Time,Alcohol,Amount,2025-01-08,2025-01-08.md,2025-01,OTC
+----,-------------------,------,2025-01-08,2025-01-08.md,2025-01,OTC
+Time,Medication,Dosage,2025-01-08,2025-01-08.md,2025-01,OTC
+14:49,Ritalin XR,2x18mg,2025-01-22,2025-01-22.md,2025-01,Prescription
+19:08,Ritalin XR,2x18mg,2025-01-01,2025-01-01.md,2025-01,Prescription
+18:00,Fexofenadine,120mg,2025-01-01,2025-01-01.md,2025-01,OTC
+19:56,Ritalin XR,2x18mg,2025-01-24,2025-01-24.md,2025-01,Prescription
+09:35,Ritalin XR,2x18mg,2025-01-16,2025-01-16.md,2025-01,Prescription
+08:30,Fexofenadine,120mg,2025-01-16,2025-01-16.md,2025-01,OTC
+"18:40, 23:00",Ritalin IR,5mg,2025-01-21,2025-01-21.md,2025-01,Prescription
+18:40,Fexofenadine,120mg,2025-01-21,2025-01-21.md,2025-01,OTC
+"19:40, 22:50, 03:04",Ritalin IR,5mg,2025-01-02,2025-01-02.md,2025-01,Prescription
+19:35,Fexofenadine,120mg,2025-01-02,2025-01-02.md,2025-01,OTC
+21:19,Ritalin XR,2x18mg,2025-01-31,2025-01-31.md,2025-01,Prescription
+21:19,Fexofenadine,120mg,2025-01-31,2025-01-31.md,2025-01,OTC
+14:04,Ritalin XR,2x18mg,2025-01-11,2025-01-11.md,2025-01,Prescription
+03:49,Ritalin IR,5mg,2025-01-11,2025-01-11.md,2025-01,Prescription
+06:00,Fexofenadine,120mg,2025-01-11,2025-01-11.md,2025-01,OTC
+16:57,Paracetamol,2x500mg,2025-01-11,2025-01-11.md,2025-01,OTC
+16:40,Vitamin D3,2000IU,2025-01-11,2025-01-11.md,2025-01,OTC
+18:45,Ritalin XR,2x18mg,2025-01-30,2025-01-30.md,2025-01,Prescription
+18:45,Fexofenadine,120mg,2025-01-30,2025-01-30.md,2025-01,OTC
+19:20,Vitamin D3,2000IU,2025-01-30,2025-01-30.md,2025-01,OTC
+14:41,Ritalin XR,2x18mg,2025-01-29,2025-01-29.md,2025-01,Prescription
+14:41,Fexofenadine,120mg,2025-01-29,2025-01-29.md,2025-01,OTC
+18:35,Paracetamol,2x500mg,2025-01-29,2025-01-29.md,2025-01,OTC
+04:20,Covonia Chesty Cough & Flu Relief,20ml,2025-01-25,2025-01-25.md,2025-01,OTC
+Time,Alcohol,Amount,2025-01-12,2025-01-12.md,2025-01,OTC
+"22:40, 03:27",Ritalin IR,5mg,2025-01-05,2025-01-05.md,2025-01,Prescription
+22:00,Fexofenadine,120mg,2025-01-05,2025-01-05.md,2025-01,OTC
+"23:59, 06:30",Ritalin IR,5mg,2025-01-09,2025-01-09.md,2025-01,Prescription
+11:34,Fexofenadine,120mg,2025-01-09,2025-01-09.md,2025-01,OTC
+05:38,Ibuprofen,2x200mg,2025-01-09,2025-01-09.md,2025-01,OTC
+10:11,Ritalin XR,2x18mg,2025-01-10,2025-01-10.md,2025-01,Prescription
+20:34,Ritalin IR,5mg,2025-01-10,2025-01-10.md,2025-01,Prescription
+14:20,Paracetamol,2x500mg,2025-01-10,2025-01-10.md,2025-01,OTC
+17:10,Ritalin XR,2x18mg,2025-01-27,2025-01-27.md,2025-01,Prescription
+16:42,Ritalin XR,2x18mg,2025-02-03,2025-02-03.md,2025-02,Prescription
+16:42,Fexofenadine,120mg,2025-02-03,2025-02-03.md,2025-02,OTC
+15:22,Ritalin XR,2x18mg,2025-02-23,2025-02-23.md,2025-02,Prescription
+15:22,Fexofenadine,120mg,2025-02-23,2025-02-23.md,2025-02,OTC
+11:55,Ritalin XR,2x18mg,2025-02-17,2025-02-17.md,2025-02,Prescription
+11:55,Fexofenadine,120mg,2025-02-17,2025-02-17.md,2025-02,OTC
+08:40,Ritalin XR,2x18mg,2025-02-22,2025-02-22.md,2025-02,Prescription
+22:00,Ritalin IR,5mg,2025-02-22,2025-02-22.md,2025-02,Prescription
+08:00,Fexofenadine,120mg,2025-02-22,2025-02-22.md,2025-02,OTC
+19:28,Ritalin IR,5mg,2025-02-28,2025-02-28.md,2025-02,Prescription
+19:28,Fexofenadine,120mg,2025-02-28,2025-02-28.md,2025-02,OTC
+11:35,Ritalin XR,2x18mg,2025-02-09,2025-02-09.md,2025-02,Prescription
+11:35,Fexofenadine,120mg,2025-02-09,2025-02-09.md,2025-02,OTC
+14:30,Ritalin XR,2x18mg,2025-02-12,2025-02-12.md,2025-02,Prescription
+14:30,Fexofenadine,120mg,2025-02-12,2025-02-12.md,2025-02,OTC
+16:20,Ritalin XR,2x18mg,2025-02-18,2025-02-18.md,2025-02,Prescription
+16:20,Fexofenadine,120mg,2025-02-18,2025-02-18.md,2025-02,OTC
+14:35,Ritalin XR,2x18mg,2025-02-24,2025-02-24.md,2025-02,Prescription
+14:35,Fexofenadine,120mg,2025-02-24,2025-02-24.md,2025-02,OTC
+17:40,Ritalin XR,2x18mg,2025-02-25,2025-02-25.md,2025-02,Prescription
+17:40,Fexofenadine,120mg,2025-02-25,2025-02-25.md,2025-02,OTC
+10:12,Ritalin XR,2x18mg,2025-02-10,2025-02-10.md,2025-02,Prescription
+10:12,Fexofenadine,120mg,2025-02-10,2025-02-10.md,2025-02,OTC
+15:02,Ritalin XR,2x18mg,2025-02-16,2025-02-16.md,2025-02,Prescription
+09:33,Ritalin XR,2x18mg,2025-02-11,2025-02-11.md,2025-02,Prescription
+09:33,Fexofenadine,120mg,2025-02-11,2025-02-11.md,2025-02,OTC
+13:31,Ritalin XR,2x18mg,2025-02-08,2025-02-08.md,2025-02,Prescription
+13:31,Fexofenadine,120mg,2025-02-08,2025-02-08.md,2025-02,OTC
+17:00,Ritalin XR,2x18mg,2025-02-05,2025-02-05.md,2025-02,Prescription
+17:00,Fexofenadine,120mg,2025-02-05,2025-02-05.md,2025-02,OTC
+>00:02,Fexofenadine,120mg,2025-02-15,2025-02-15.md,2025-02,OTC
+17:39,Ritalin XR,2x18mg,2025-02-07,2025-02-07.md,2025-02,Prescription
+17:39,Fexofenadine,120mg,2025-02-07,2025-02-07.md,2025-02,OTC
+02:48,Paracetamol,2x500mg,2025-02-07,2025-02-07.md,2025-02,OTC
+15:50,Ritalin XR,2x18mg,2025-02-13,2025-02-13.md,2025-02,Prescription
+15:50,Fexofenadine,120mg,2025-02-13,2025-02-13.md,2025-02,OTC
+19:02,Fexofenadine,120mg,2025-02-01,2025-02-01.md,2025-02,OTC
+14:26,Ritalin XR,2x18mg,2025-02-06,2025-02-06.md,2025-02,Prescription
+14:26,Fexofenadine,120mg,2025-02-06,2025-02-06.md,2025-02,OTC
+"20:37, 02:57",Ritalin IR,5mg,2025-02-14,2025-02-14.md,2025-02,Prescription
+20:37,Fexofenadine,120mg,2025-02-14,2025-02-14.md,2025-02,OTC
+16:40,Ritalin XR,2x18mg,2025-02-04,2025-02-04.md,2025-02,Prescription
+16:40,Fexofenadine,120mg,2025-02-04,2025-02-04.md,2025-02,OTC
+"16:17, 18:12",Ritalin IR,5mg,2025-02-19,2025-02-19.md,2025-02,Prescription
+16:15,Fexofenadine,120mg,2025-02-19,2025-02-19.md,2025-02,OTC
+08:34,Ritalin XR,2x18mg,2025-02-21,2025-02-21.md,2025-02,Prescription
+08:34,Fexofenadine,120mg,2025-02-21,2025-02-21.md,2025-02,OTC
+09:18,Ritalin XR,2x18mg,2025-02-20,2025-02-20.md,2025-02,Prescription
+09:18,Fexofenadine,120mg,2025-02-20,2025-02-20.md,2025-02,OTC
+15:30,Ritalin XR,2x18mg,2025-02-27,2025-02-27.md,2025-02,Prescription
+15:30,Fexofenadine,120mg,2025-02-27,2025-02-27.md,2025-02,OTC
+19:29,Ritalin XR,2x18mg,2025-02-02,2025-02-02.md,2025-02,Prescription
+19:29,Fexofenadine,120mg,2025-02-02,2025-02-02.md,2025-02,OTC
+21:24,Ritalin IR,5mg,2025-02-26,2025-02-26.md,2025-02,Prescription
+21:24,Fexofenadine,120mg,2025-02-26,2025-02-26.md,2025-02,OTC
+17:18,Ritalin XR,2x18mg,2025-03-01,2025-03-01.md,2025-03,Prescription
+17:18,Fexofenadine,120mg,2025-03-01,2025-03-01.md,2025-03,OTC
+19:10,Ritalin IR,5mg,2025-03-04,2025-03-04.md,2025-03,Prescription
+19:10,Fexofenadine,120mg,2025-03-04,2025-03-04.md,2025-03,OTC
+15:45,Ritalin XR,2x18mg,2025-03-03,2025-03-03.md,2025-03,Prescription
+15:45,Fexofenadine,120mg,2025-03-03,2025-03-03.md,2025-03,OTC
+16:19,Vitamin D3,2000IU,2025-03-03,2025-03-03.md,2025-03,OTC
+17:13,Ritalin XR,2x18mg,2025-03-02,2025-03-02.md,2025-03,Prescription
+17:13,Fexofenadine,120mg,2025-03-02,2025-03-02.md,2025-03,OTC
+19:08,Ritalin IR,5mg,2025-03-06,2025-03-06.md,2025-03,Prescription
+19:08,Fexofenadine,120mg,2025-03-06,2025-03-06.md,2025-03,OTC
+12:55,Ritalin XR,2x18mg,2025-03-07,2025-03-07.md,2025-03,Prescription
+12:55,Fexofenadine,120mg,2025-03-07,2025-03-07.md,2025-03,OTC
+02:18,Ibuprofen,2x200mg,2025-03-07,2025-03-07.md,2025-03,OTC
+10:25,Ritalin XR,2x18mg,2025-03-05,2025-03-05.md,2025-03,Prescription
+10:25,Fexofenadine,120mg,2025-03-05,2025-03-05.md,2025-03,OTC
+09:44,Ritalin XR,2x18mg,2025-03-08,2025-03-08.md,2025-03,Prescription
+09:44,Fexofenadine,120mg,2025-03-08,2025-03-08.md,2025-03,OTC
+18:05,Fexofenadine,120mg,2024-12-31,2024-12-31.md,2024-12,OTC
+20:30,Fexofenadine,120mg,2024-12-19,2024-12-19.md,2024-12,OTC
+19:33,Ritalin IR,5mg,2024-12-12,2024-12-12.md,2024-12,Prescription
+15:00,Fexofenadine,120mg,2024-12-12,2024-12-12.md,2024-12,OTC
+"18:30, 21:52, 02:09",Ritalin IR,5mg,2024-12-22,2024-12-22.md,2024-12,Prescription
+02:07,Ritalin IR ins,2.5mg,2024-12-22,2024-12-22.md,2024-12,Prescription
+13:15,Fexofenadine,120mg,2024-12-22,2024-12-22.md,2024-12,OTC
+20:25,Vitamin D3,2000 IU,2024-12-22,2024-12-22.md,2024-12,OTC
+16:04,Fexofenadine,120mg,2024-12-15,2024-12-15.md,2024-12,OTC
+07:09,Magnesium Oxide,500mg,2024-12-15,2024-12-15.md,2024-12,OTC
+"21:15, 23:20, 01:50",Ritalin IR,5mg,2024-12-30,2024-12-30.md,2024-12,Prescription
+20:00,Fexofenadine,120mg,2024-12-30,2024-12-30.md,2024-12,OTC
+17:46,Ritalin IR,5mg,2024-12-01,2024-12-01.md,2024-12,Prescription
+17:15,Fexofenadine,120mg,2024-12-01,2024-12-01.md,2024-12,OTC
+23:40,Paracetamol,2x500mg,2024-12-01,2024-12-01.md,2024-12,OTC
+16:00,Fexofenadine,120mg,2024-12-03,2024-12-03.md,2024-12,OTC
+"00:24, 10:55, 15:30",Ritalin IR,5mg,2024-12-28,2024-12-28.md,2024-12,Prescription
+00:20,Fexofenadine,120mg,2024-12-28,2024-12-28.md,2024-12,OTC
+21:16,Fexofenadine,120mg,2024-12-06,2024-12-06.md,2024-12,OTC
+22:33,Ritalin IR,5mg,2024-12-23,2024-12-23.md,2024-12,Prescription
+21:42,Fexofenadine,120mg,2024-12-23,2024-12-23.md,2024-12,OTC
+17:21,Fexofenadine,120mg,2024-12-21,2024-12-21.md,2024-12,OTC
+16:05,Ritalin XR,2x18mg,2024-12-14,2024-12-14.md,2024-12,Prescription
+16:05,Fexofenadine,120mg,2024-12-14,2024-12-14.md,2024-12,OTC
+18:00,Fexofenadine,120mg,2024-12-18,2024-12-18.md,2024-12,OTC
+09:10,Ritalin XR,2x18mg,2024-12-13,2024-12-13.md,2024-12,Prescription
+20:42,Ritalin IR,5mg,2024-12-17,2024-12-17.md,2024-12,Prescription
+19:10,Fexofenadine,120mg,2024-12-17,2024-12-17.md,2024-12,OTC
+20:38,Vitamin D3,2x2000 IU,2024-12-17,2024-12-17.md,2024-12,OTC
+12:20,Ritalin XR,2x18mg,2024-12-26,2024-12-26.md,2024-12,Prescription
+12:20,Fexofenadine,120mg,2024-12-26,2024-12-26.md,2024-12,OTC
+14:10,Fexofenadine,120mg,2024-12-02,2024-12-02.md,2024-12,OTC
+19:00,Fexofenadine,120mg,2024-12-08,2024-12-08.md,2024-12,OTC
+19:45,Fexofenadine,120mg,2024-12-04,2024-12-04.md,2024-12,OTC
+"19:22, 21:44",Ritalin IR,5mg,2024-12-29,2024-12-29.md,2024-12,Prescription
+18:00,Fexofenadine,120mg,2024-12-29,2024-12-29.md,2024-12,OTC
+"16:00, 19:40",Ritalin IR,5mg,2024-12-20,2024-12-20.md,2024-12,Prescription
+16:00,Fexofenadine,120mg,2024-12-20,2024-12-20.md,2024-12,OTC
+13:56,Fexofenadine,120mg,2024-12-11,2024-12-11.md,2024-12,OTC
+13:43,Ritalin IR,5mg,2024-12-10,2024-12-10.md,2024-12,Prescription
+13:00,Fexofenadine,120mg,2024-12-10,2024-12-10.md,2024-12,OTC
+19:55,Fexofenadine,120mg,2024-12-07,2024-12-07.md,2024-12,OTC
+"17:32, 21:00",Ritalin IR,5mg,2024-12-25,2024-12-25.md,2024-12,Prescription
+13:25,Fexofenadine,120mg,2024-12-25,2024-12-25.md,2024-12,OTC
+23:20,Paracetamol,2x500mg,2024-12-25,2024-12-25.md,2024-12,OTC
+02:58,Vitamin D3,2000 IU,2024-12-25,2024-12-25.md,2024-12,OTC
+22:00,Fexofenadine,120mg,2024-12-09,2024-12-09.md,2024-12,OTC
+10:23,Fexofenadine,1 (tab),2024-10-11,2024-10-11.md,old format,Medication
+10:42,Paracetamol,2 (tabs),2024-10-11,2024-10-11.md,old format,Medication
+"12:00?, 19:47",Fexofenadine,1 (tab),2024-10-25,2024-10-25.md,old format,Medication
+"01:37 (half), 19:38 (3/2), 22:35",Ritalin IR,5mg,2024-10-25,2024-10-25.md,old format,Medication
+20:15,Fexofenadine,1 (tab),2024-10-10,2024-10-10.md,old format,Medication
+06:44,Fexofenadine,1 (tab),2024-10-26,2024-10-26.md,old format,Medication
+15:38,Ritalin XR,2x18mg,2024-10-26,2024-10-26.md,old format,Medication
+04:34,Paracetamol,2 (tabs),2024-10-26,2024-10-26.md,old format,Medication
+18:45,Fexofenadine,1 (tab),2024-10-04,2024-10-04.md,old format,Medication
+18:45,Fexofenadine,1 (tab),2024-10-03,2024-10-03.md,old format,Medication
+10:57,Fexofenadine,1 (tab),2024-10-12,2024-10-12.md,old format,Medication
+12:13,Fexofenadine,1 (tab),2024-10-07,2024-10-07.md,old format,Medication
+12:13,Ritalin XR,2x18mg,2024-10-07,2024-10-07.md,old format,Medication
+17:50,Fexofenadine,1 (tab),2024-10-05,2024-10-05.md,old format,Medication
+17:54,Ritalin XR,2x18mg,2024-10-05,2024-10-05.md,old format,Medication
+20:15,Paracetamol,1 (tab),2024-10-05,2024-10-05.md,old format,Medication
+19:00,Fexofenadine,1 (tab),2024-10-21,2024-10-21.md,old format,Medication
+"21:53, 05:00",Ritalin IR,5mg,2024-10-21,2024-10-21.md,old format,Medication
+12:47,Fexofenadine,1 (tab),2024-10-01,2024-10-01.md,old format,Medication
+22:25,Ritalin IR,5mg,2024-10-01,2024-10-01.md,old format,Medication
+22:40,Fexofenadine,1 (tab),2024-10-08,2024-10-08.md,old format,Medication
+10:54,Fexofenadine,1 (tab),2024-10-27,2024-10-27.md,old format,Medication
+10:54,Ritalin XR,2x18mg,2024-10-27,2024-10-27.md,old format,Medication
+14:54,Paracetamol,1 (tabs),2024-10-27,2024-10-27.md,old format,Medication
+19:50,Fexofenadine,1 (tab),2024-10-02,2024-10-02.md,old format,Medication
+21:10,Ritalin IR,5mg,2024-10-02,2024-10-02.md,old format,Medication
+8:25,Fexofenadine,1 (tab),2024-10-18,2024-10-18.md,old format,Medication
+8:35,Ritalin XR,2x18mg,2024-10-18,2024-10-18.md,old format,Medication
+"02:35, 21:13",Fexofenadine,1 (tab),2024-10-16,2024-10-16.md,old format,Medication
+17:00,Fexofenadine,1 (tab),2024-10-19,2024-10-19.md,old format,Medication
+"09:22, 23:39, 08:00",Fexofenadine,1 (tab),2024-10-13,2024-10-13.md,old format,Medication
+"19:59, 21:06, 01:05",Ritalin IR,5mg,2024-10-13,2024-10-13.md,old format,Medication
+08;00,Fexofenadine,1 (tab),2024-10-14,2024-10-14.md,old format,Medication
+15:05,Ritalin XR,2x18mg,2024-10-14,2024-10-14.md,old format,Medication
+"02:30,",Ritalin IR,5mg,2024-10-20,2024-10-20.md,old format,Medication
+13:05,Fexofenadine,1 (tab),2024-10-06,2024-10-06.md,old format,Medication
+13:05,Ritalin XR,2x18mg,2024-10-06,2024-10-06.md,old format,Medication
+19:20,Fexofenadine,1 (tab),2024-09-24,2024-09-24.md,2024-09,Medication
+19:20,Ritalin IR,5mg,2024-09-24,2024-09-24.md,2024-09,Medication
+13:43,Fexofenadine,1 (tab),2024-09-29,2024-09-29.md,2024-09,Medication
+13:43,Ritalin XR,2x18mg,2024-09-29,2024-09-29.md,2024-09,Medication
+19:50,Fexofenadine,1 (tab),2024-09-30,2024-09-30.md,2024-09,Medication
+05:33,Fexofenadine,1 (tab),2024-09-20,2024-09-20.md,2024-09,Medication
+05:35,Ritalin XR,2x18mg,2024-09-20,2024-09-20.md,2024-09,Medication
+17:58,Ritalin IR,5mg,2024-09-20,2024-09-20.md,2024-09,Medication
+17:42,Fexofenadine,1 (tab),2024-09-28,2024-09-28.md,2024-09,Medication
+"17:40, 21:03",Ritalin IR,5mg,2024-09-28,2024-09-28.md,2024-09,Medication
+17:41,Fexofenadine,1 (tab),2024-09-14,2024-09-14.md,2024-09,Medication
+17:42,Ritalin IR,5mg,2024-09-14,2024-09-14.md,2024-09,Medication
+15:45,Fexofenadine,1 (tab),2024-09-26,2024-09-26.md,2024-09,Medication
+17:35,Ritalin IR,5mg,2024-09-26,2024-09-26.md,2024-09,Medication
+"17:15, 21:35 (half)",Fexofenadine,1 (tab),2024-09-27,2024-09-27.md,2024-09,Medication
+17:30,Ritalin XR,2x18mg,2024-09-27,2024-09-27.md,2024-09,Medication
+08:50,Fexofenadine,1 (tab),2024-09-17,2024-09-17.md,2024-09,Medication
+17:20,Fexofenadine,1 (tab),2024-09-21,2024-09-21.md,2024-09,Medication
+"17:21, 22:06",Ritalin IR,5mg,2024-09-21,2024-09-21.md,2024-09,Medication
+11:28,Fexofenadine,1 (tab),2024-09-18,2024-09-18.md,2024-09,Medication
+11:30,Fexofenadine,1 (tab),2024-09-15,2024-09-15.md,2024-09,Medication
+17:15~,Fexofenadine,1 (tab),2024-09-13,2024-09-13.md,2024-09,Medication
+17:15~,Ritalin IR,5mg,2024-09-13,2024-09-13.md,2024-09,Medication
+18:45,Fexofenadine,1 (tab),2024-09-22,2024-09-22.md,2024-09,Medication
+18:23,Ritalin IR,5mg,2024-09-22,2024-09-22.md,2024-09,Medication
+16:15,Fexofenadine,1 (tab),2024-09-23,2024-09-23.md,2024-09,Medication
+"16:15, 20:41",Ritalin IR,5mg,2024-09-23,2024-09-23.md,2024-09,Medication
+16:00,Fexofenadine,1 (tab),2024-09-16,2024-09-16.md,2024-09,Medication
+"16:00, 20:02",Ritalin IR,5mg,2024-09-16,2024-09-16.md,2024-09,Medication
+18:20,Fexofenadine,1 (tab),2024-09-12,2024-09-12.md,2024-09,Medication
+11:55,Fexofenadine,1 (tab),2024-09-25,2024-09-25.md,2024-09,Medication
+18:40,Ritalin IR,5mg,2024-09-25,2024-09-25.md,2024-09,Medication
+12:20,Ritalin XR,2x18mg,2025-04-12,2025-04-12.md,2025-04,Prescription
+>01:10,Analgesic,1cm,2025-04-12,2025-04-12.md,2025-04,Prescription
+12:20,Fexofenadine,120mg,2025-04-12,2025-04-12.md,2025-04,OTC
+14:10,Ritalin XR,2x18mg,2025-04-21,2025-04-21.md,2025-04,Prescription
+05:00?,Fexofenadine,120mg,2025-04-21,2025-04-21.md,2025-04,OTC
+10:14,Ritalin XR,2x18mg,2025-04-24,2025-04-24.md,2025-04,Prescription
+05:25,Fexofenadine,120mg,2025-04-24,2025-04-24.md,2025-04,OTC
+13:40,Ritalin XR,2x18mg,2025-04-18,2025-04-18.md,2025-04,Prescription
+13:40,Fexofenadine,120mg,2025-04-18,2025-04-18.md,2025-04,OTC
+13:17,Ritalin XR,2x18mg,2025-04-19,2025-04-19.md,2025-04,Prescription
+03:40,GTN Rectalgesic,1cm?,2025-04-19,2025-04-19.md,2025-04,Prescription
+06:42,Fexofenadine,120mg,2025-04-19,2025-04-19.md,2025-04,OTC
+07:22,Ritalin XR,2x18mg,2025-04-02,2025-04-02.md,2025-04,Prescription
+17:58,Ritalin IR,5mg,2025-04-02,2025-04-02.md,2025-04,Prescription
+05:45,Fexofenadine,120mg,2025-04-02,2025-04-02.md,2025-04,OTC
+10:36,Ritalin XR,2x18mg,2025-04-30,2025-04-30.md,2025-04,Prescription
+03:12,Fexofenadine,120mg,2025-04-30,2025-04-30.md,2025-04,OTC
+05:06,Fexofenadine,120mg,2025-04-22,2025-04-22.md,2025-04,OTC
+13:10,Ritalin XR,2x18mg,2025-04-23,2025-04-23.md,2025-04,Prescription
+08:00,Fexofenadine,120mg,2025-04-23,2025-04-23.md,2025-04,OTC
+10:40,Ritalin XR,2x18mg,2025-04-01,2025-04-01.md,2025-04,Prescription
+11:25,Ritalin XR,2x18mg,2025-04-16,2025-04-16.md,2025-04,Prescription
+15:15,GTN Rectalgesic,1cm?,2025-04-16,2025-04-16.md,2025-04,Prescription
+11:25,Fexofenadine,120mg,2025-04-16,2025-04-16.md,2025-04,OTC
+"16:57, 22:40",Ritalin IR,5mg,2025-04-07,2025-04-07.md,2025-04,Prescription
+16:57,Fexofenadine,120mg,2025-04-07,2025-04-07.md,2025-04,OTC
+15:15,Ritalin XR,2x18mg,2025-04-11,2025-04-11.md,2025-04,Prescription
+15:15,Fexofenadine,120mg,2025-04-11,2025-04-11.md,2025-04,OTC
+"15:05, 18:50",Ritalin IR,5mg,2025-04-25,2025-04-25.md,2025-04,Prescription
+21:55,GTN Rectalgesic,1cm?,2025-04-25,2025-04-25.md,2025-04,Prescription
+03:50,Fexofenadine,120mg,2025-04-25,2025-04-25.md,2025-04,OTC
+13:00,Ritalin XR,2x18mg,2025-04-06,2025-04-06.md,2025-04,Prescription
+13:00,Fexofenadine,120mg,2025-04-06,2025-04-06.md,2025-04,OTC
+13:05,Ritalin XR,2x18mg,2025-04-10,2025-04-10.md,2025-04,Prescription
+13:05,Fexofenadine,120mg,2025-04-10,2025-04-10.md,2025-04,OTC
+13:20,Ritalin XR,2x18mg,2025-04-04,2025-04-04.md,2025-04,Prescription
+13:20,Fexofenadine,120mg,2025-04-04,2025-04-04.md,2025-04,OTC
+12:25,Ritalin XR,2x18mg,2025-04-08,2025-04-08.md,2025-04,Prescription
+12:25,Fexofenadine,120mg,2025-04-08,2025-04-08.md,2025-04,OTC
+11:10,Ritalin XR,2x18mg,2025-04-20,2025-04-20.md,2025-04,Prescription
+05:44,Fexofenadine,120mg,2025-04-20,2025-04-20.md,2025-04,OTC
+14:52,Ritalin XR,2x18mg,2025-04-15,2025-04-15.md,2025-04,Prescription
+14:52,Fexofenadine,120mg,2025-04-15,2025-04-15.md,2025-04,OTC
+13:10,Ritalin XR,2x18mg,2025-04-17,2025-04-17.md,2025-04,Prescription
+13:10,Fexofenadine,120mg,2025-04-17,2025-04-17.md,2025-04,OTC
+"15:50, 20:40",Ritalin IR,5mg,2025-04-29,2025-04-29.md,2025-04,Prescription
+05:01,Fexofenadine,120mg,2025-04-29,2025-04-29.md,2025-04,OTC
+10:45,Ritalin XR,2x18mg,2025-04-27,2025-04-27.md,2025-04,Prescription
+16:00,GTN Rectalgesic,1cm?,2025-04-27,2025-04-27.md,2025-04,Prescription
+10:45,Fexofenadine,120mg,2025-04-27,2025-04-27.md,2025-04,OTC
+10:35,Ritalin XR,2x18mg,2025-04-14,2025-04-14.md,2025-04,Prescription
+10:35,Fexofenadine,120mg,2025-04-14,2025-04-14.md,2025-04,OTC
+10:45,Ritalin XR,2x18mg,2025-04-26,2025-04-26.md,2025-04,Prescription
+23:25,GTN Rectalgesic,1cm?,2025-04-26,2025-04-26.md,2025-04,Prescription
+08:00,Fexofenadine,120mg,2025-04-26,2025-04-26.md,2025-04,OTC
+07:47,Ritalin XR,2x18mg,2025-04-03,2025-04-03.md,2025-04,Prescription
+16:27,Ritalin IR,5mg,2025-04-03,2025-04-03.md,2025-04,Prescription
+07:23,Fexofenadine,120mg,2025-04-03,2025-04-03.md,2025-04,OTC
+12:55,Ritalin XR,2x18mg,2025-04-28,2025-04-28.md,2025-04,Prescription
+03:45,GTN Rectalgesic,1cm?,2025-04-28,2025-04-28.md,2025-04,Prescription
+12:55,Fexofenadine,120mg,2025-04-28,2025-04-28.md,2025-04,OTC
+18:45,Paracetamol,2x500mg,2025-04-28,2025-04-28.md,2025-04,OTC
+14:15,Ritalin XR,2x18mg,2025-04-05,2025-04-05.md,2025-04,Prescription
+14:15,Fexofenadine,120mg,2025-04-05,2025-04-05.md,2025-04,OTC
+"06:58, 13:22",Ritalin IR,5mg,2025-04-09,2025-04-09.md,2025-04,Prescription
+06:58,Fexofenadine,120mg,2025-04-09,2025-04-09.md,2025-04,OTC
+10:26,Ritalin XR,2x18mg,2025-04-13,2025-04-13.md,2025-04,Prescription
+10:26,Fexofenadine,120mg,2025-04-13,2025-04-13.md,2025-04,OTC
+20:16,Ritalin IR,5mg,2025-03-23,2025-03-23.md,2025-03,Prescription
+20:16,Fexofenadine,120mg,2025-03-23,2025-03-23.md,2025-03,OTC
+17:45,Ritalin IR,5mg,2025-03-28,2025-03-28.md,2025-03,Prescription
+17:45,Fexofenadine,120mg,2025-03-28,2025-03-28.md,2025-03,OTC
+17:16,Ritalin XR,2x18mg,2025-03-11,2025-03-11.md,2025-03,Prescription
+17:16,Fexofenadine,120mg,2025-03-11,2025-03-11.md,2025-03,OTC
+21:00,Ritalin IR,5mg,2025-03-19,2025-03-19.md,2025-03,Prescription
+20:45,Fexofenadine,120mg,2025-03-19,2025-03-19.md,2025-03,OTC
+>10:40,Ritalin XR,2x18mg,2025-03-31,2025-03-31.md,2025-03,Prescription
+18:55,Ritalin IR,5mg,2025-03-31,2025-03-31.md,2025-03,Prescription
+18:55,Fexofenadine,120mg,2025-03-31,2025-03-31.md,2025-03,OTC
+16:05,Ritalin XR,2x18mg,2025-03-13,2025-03-13.md,2025-03,Prescription
+16:05,Fexofenadine,120mg,2025-03-13,2025-03-13.md,2025-03,OTC
+19:43,Ritalin IR,5mg,2025-03-21,2025-03-21.md,2025-03,Prescription
+20:17,Fexofenadine,120mg,2025-03-21,2025-03-21.md,2025-03,OTC
+19:40,Ritalin IR,5mg,2025-03-26,2025-03-26.md,2025-03,Prescription
+19:40,Fexofenadine,120mg,2025-03-26,2025-03-26.md,2025-03,OTC
+17:00,Ritalin XR,2x18mg,2025-03-15,2025-03-15.md,2025-03,Prescription
+17:00,Fexofenadine,120mg,2025-03-15,2025-03-15.md,2025-03,OTC
+18:18,Ritalin XR,2x18mg,2025-03-14,2025-03-14.md,2025-03,Prescription
+18:18,Fexofenadine,120mg,2025-03-14,2025-03-14.md,2025-03,OTC
+"19:37, 22:25",Ritalin IR,5mg,2025-03-18,2025-03-18.md,2025-03,Prescription
+19:25,Fexofenadine,120mg,2025-03-18,2025-03-18.md,2025-03,OTC
+14:45,Ritalin XR,2x18mg,2025-03-10,2025-03-10.md,2025-03,Prescription
+14:45,Fexofenadine,120mg,2025-03-10,2025-03-10.md,2025-03,OTC
+07:47,Ritalin XR,2x18mg,2025-03-30,2025-03-30.md,2025-03,Prescription
+20:57,Ritalin IR,5mg,2025-03-30,2025-03-30.md,2025-03,Prescription
+07:25,Fexofenadine,120mg,2025-03-30,2025-03-30.md,2025-03,OTC
+10:27,Fexofenadine,120mg,2025-03-20,2025-03-20.md,2025-03,OTC
+07:28,Ritalin XR,2x18mg,2025-03-29,2025-03-29.md,2025-03,Prescription
+07:28,Fexofenadine,120mg,2025-03-29,2025-03-29.md,2025-03,OTC
+10:55,Ritalin XR,2x18mg,2025-03-16,2025-03-16.md,2025-03,Prescription
+10:55,Fexofenadine,120mg,2025-03-16,2025-03-16.md,2025-03,OTC
+"21:28, 02:10",Ritalin IR,5mg,2025-03-27,2025-03-27.md,2025-03,Prescription
+21:28? 02:10,Fexofenadine,120mg,2025-03-27,2025-03-27.md,2025-03,OTC
+15:52,Ritalin XR,2x18mg,2025-03-12,2025-03-12.md,2025-03,Prescription
+15:52,Fexofenadine,120mg,2025-03-12,2025-03-12.md,2025-03,OTC
+18:22,Ritalin IR,5mg,2025-03-24,2025-03-24.md,2025-03,Prescription
+18:22,Fexofenadine,120mg,2025-03-24,2025-03-24.md,2025-03,OTC
+15:54,Ritalin XR,2x18mg,2025-03-09,2025-03-09.md,2025-03,Prescription
+15:54,Fexofenadine,120mg,2025-03-09,2025-03-09.md,2025-03,OTC
+19:45,Ritalin IR,5mg,2025-03-25,2025-03-25.md,2025-03,Prescription
+19:45,Fexofenadine,120mg,2025-03-25,2025-03-25.md,2025-03,OTC
+"19:09, 23:40",Ritalin IR,5mg,2025-03-22,2025-03-22.md,2025-03,Prescription
+19:09,Fexofenadine,120mg,2025-03-22,2025-03-22.md,2025-03,OTC
+12:53,Ritalin XR,2x18mg,2025-06-26,2025-06-26.md,2025-06,Prescription
+12:53,Fexofenadine,120mg,2025-06-26,2025-06-26.md,2025-06,OTC
+23:20,Lyclear,23:27,2025-06-26,2025-06-26.md,2025-06,OTC
+"15:55, 21:13",Ritalin IR,5mg,2025-06-03,2025-06-03.md,2025-06,Prescription
+18:15,GTN Rectalgesic,1cm?,2025-06-03,2025-06-03.md,2025-06,Prescription
+15:40,Fexofenadine,120mg,2025-06-03,2025-06-03.md,2025-06,OTC
+09:55,Ritalin XR,2x18mg,2025-06-22,2025-06-22.md,2025-06,Prescription
+09:55,Fexofenadine,120mg,2025-06-22,2025-06-22.md,2025-06,OTC
+12:15,Ritalin XR,2x18mg,2025-06-16,2025-06-16.md,2025-06,Prescription
+12:15,Fexofenadine,120mg,2025-06-16,2025-06-16.md,2025-06,OTC
+13:12,Dennenknop Drank Sterk,20ml,2025-06-16,2025-06-16.md,2025-06,OTC
+13:51,Ritalin XR,2x18mg,2025-06-05,2025-06-05.md,2025-06,Prescription
+13:51,Fexofenadine,120mg,2025-06-05,2025-06-05.md,2025-06,OTC
+12:13,Ritalin XR,2x18mg,2025-06-29,2025-06-29.md,2025-06,Prescription
+12:13,Fexofenadine,120mg,2025-06-29,2025-06-29.md,2025-06,OTC
+10:45,Ritalin XR,2x18mg,2025-06-19,2025-06-19.md,2025-06,Prescription
+10:45,Fexofenadine,120mg,2025-06-19,2025-06-19.md,2025-06,OTC
+14:15,Ritalin XR,2x18mg,2025-06-04,2025-06-04.md,2025-06,Prescription
+14:15,Fexofenadine,120mg,2025-06-04,2025-06-04.md,2025-06,OTC
+"02:41, 06:28",Ritalin IR,5mg,2025-06-10,2025-06-10.md,2025-06,Prescription
+02:40,Fexofenadine,120mg,2025-06-10,2025-06-10.md,2025-06,OTC
+12:50,Ritalin XR,2x18mg,2025-06-21,2025-06-21.md,2025-06,Prescription
+12:50,Fexofenadine,120mg,2025-06-21,2025-06-21.md,2025-06,OTC
+14:10,Ritalin XR,2x18mg,2025-06-02,2025-06-02.md,2025-06,Prescription
+14:10,Fexofenadine,120mg,2025-06-02,2025-06-02.md,2025-06,OTC
+13:30,Ritalin XR,2x18mg,2025-06-01,2025-06-01.md,2025-06,Prescription
+13:30,Fexofenadine,120mg,2025-06-01,2025-06-01.md,2025-06,OTC
+12:45,Ritalin XR,2x18mg,2025-06-15,2025-06-15.md,2025-06,Prescription
+06:45,Fexofenadine,120mg,2025-06-15,2025-06-15.md,2025-06,OTC
+21:15,Paracetamol,2x500mg,2025-06-15,2025-06-15.md,2025-06,OTC
+"15:33, 18:30",Ritalin XR,2x18mg,2025-06-09,2025-06-09.md,2025-06,Prescription
+15:33,Fexofenadine,120mg,2025-06-09,2025-06-09.md,2025-06,OTC
+10:28,Ritalin XR,2x18mg,2025-06-12,2025-06-12.md,2025-06,Prescription
+10:28,Fexofenadine,120mg,2025-06-12,2025-06-12.md,2025-06,OTC
+15:45,Ritalin XR,2x18mg,2025-06-06,2025-06-06.md,2025-06,Prescription
+16:42,Fexofenadine,120mg,2025-06-06,2025-06-06.md,2025-06,OTC
+23:00,Covonia All-In-One,20ml,2025-06-06,2025-06-06.md,2025-06,OTC
+11:58,Ritalin XR,2x18mg,2025-06-14,2025-06-14.md,2025-06,Prescription
+11:58,Fexofenadine,120mg,2025-06-14,2025-06-14.md,2025-06,OTC
+11:05,Ritalin XR,2x18mg,2025-06-13,2025-06-13.md,2025-06,Prescription
+11:05,Fexofenadine,120mg,2025-06-13,2025-06-13.md,2025-06,OTC
+15:14,Ritalin IR,5mg,2025-06-28,2025-06-28.md,2025-06,Prescription
+15:14,Fexofenadine,120mg,2025-06-28,2025-06-28.md,2025-06,OTC
+13:12,Ritalin XR,2x18mg,2025-06-20,2025-06-20.md,2025-06,Prescription
+13:12,Fexofenadine,120mg,2025-06-20,2025-06-20.md,2025-06,OTC
+"01:50, 08:06",Ritalin IR,5mg,2025-06-24,2025-06-24.md,2025-06,Prescription
+01:50,Fexofenadine,120mg,2025-06-24,2025-06-24.md,2025-06,OTC
+10:42,Paracetamol,2x500mg,2025-06-24,2025-06-24.md,2025-06,OTC
+12:51,Ritalin XR,2x18mg,2025-06-27,2025-06-27.md,2025-06,Prescription
+12:51,Fexofenadine,120mg,2025-06-27,2025-06-27.md,2025-06,OTC
+11:40,Ritalin XR,2x18mg,2025-06-08,2025-06-08.md,2025-06,Prescription
+12:15,GTN Rectalgesic,1cm?,2025-06-08,2025-06-08.md,2025-06,Prescription
+11:40,Fexofenadine,120mg,2025-06-08,2025-06-08.md,2025-06,OTC
+15:45,Ritalin IR,5mg,2025-06-06,2025-06-06 1.md,2025-06,Prescription
+16:42,Fexofenadine,120mg,2025-06-06,2025-06-06 1.md,2025-06,OTC
+10:10,Ritalin XR,2x18mg,2025-06-23,2025-06-23.md,2025-06,Prescription
+10:10,Fexofenadine,120mg,2025-06-23,2025-06-23.md,2025-06,OTC
+13:20,Ritalin XR,2x18mg,2025-06-18,2025-06-18.md,2025-06,Prescription
+13:20,Fexofenadine,120mg,2025-06-18,2025-06-18.md,2025-06,OTC
+"15:25, 19:40",Ritalin IR,5mg,2025-06-30,2025-06-30.md,2025-06,Prescription
+14:20,Fexofenadine,120mg,2025-06-30,2025-06-30.md,2025-06,OTC
+17:05,Ritalin XR,2x18mg,2025-06-07,2025-06-07.md,2025-06,Prescription
+17:05,Fexofenadine,120mg,2025-06-07,2025-06-07.md,2025-06,OTC
+12:45,Ritalin XR,2x18mg,2025-05-22,2025-05-22.md,2025-05,Prescription
+12:45,Fexofenadine,120mg,2025-05-22,2025-05-22.md,2025-05,OTC
+09:15,Ritalin XR,2x18mg,2025-05-11,2025-05-11.md,2025-05,Prescription
+"13:15, 23:04",GTN Rectalgesic,1cm?,2025-05-11,2025-05-11.md,2025-05,Prescription
+09:15,Fexofenadine,120mg,2025-05-11,2025-05-11.md,2025-05,OTC
+08:30,Ritalin XR,2x18mg,2025-05-12,2025-05-12.md,2025-05,Prescription
+08:10,Fexofenadine,120mg,2025-05-12,2025-05-12.md,2025-05,OTC
+10:30,Ritalin XR,2x18mg,2025-05-29,2025-05-29.md,2025-05,Prescription
+"16:00?, 23:45",GTN Rectalgesic,1cm?,2025-05-29,2025-05-29.md,2025-05,Prescription
+10:30,Fexofenadine,120mg,2025-05-29,2025-05-29.md,2025-05,OTC
+21:40,Guaifenesin,5mg,2025-05-29,2025-05-29.md,2025-05,OTC
+12:15,Fexofenadine,120mg,2025-05-20,2025-05-20.md,2025-05,OTC
+12:15,Ritalin XR,2x18mg,2025-05-01,2025-05-01.md,2025-05,Prescription
+12:15,Fexofenadine,120mg,2025-05-01,2025-05-01.md,2025-05,OTC
+13:30,Ritalin XR,2x18mg,2025-05-27,2025-05-27.md,2025-05,Prescription
+>03:36,GTN Rectalgesic,1cm?,2025-05-27,2025-05-27.md,2025-05,Prescription
+12:32,Fexofenadine,120mg,2025-05-27,2025-05-27.md,2025-05,OTC
+14:20,Fish Oil Capsule,"660 EPA, 440 DHA, 1100mg Omega 3",2025-05-27,2025-05-27.md,2025-05,OTC
+13:10,Ritalin XR,2x18mg,2025-05-23,2025-05-23.md,2025-05,Prescription
+"13:10, 20:49",Fexofenadine,120mg,2025-05-23,2025-05-23.md,2025-05,OTC
+12:38,Ritalin XR,2x18mg,2025-05-24,2025-05-24.md,2025-05,Prescription
+12:38,Fexofenadine,120mg,2025-05-24,2025-05-24.md,2025-05,OTC
+01:58,"Beecham's All In One Xtra Strength, Paracetamol, Guaifenesin, Phenylephrine hydrochloride",2 x tab,2025-05-24,2025-05-24.md,2025-05,OTC
+13:44,Ritalin XR,2x18mg,2025-05-25,2025-05-25.md,2025-05,Prescription
+13:44,Fexofenadine,120mg,2025-05-25,2025-05-25.md,2025-05,OTC
+10:35,Ritalin XR,2x18mg,2025-05-08,2025-05-08.md,2025-05,Prescription
+10:35,Fexofenadine,120mg,2025-05-08,2025-05-08.md,2025-05,OTC
+16:25,Ritalin IR,5mg,2025-05-14,2025-05-14.md,2025-05,Prescription
+02:28,Ibuprofen,2x200mg,2025-05-14,2025-05-14.md,2025-05,OTC
+09:00,Ritalin XR,2x18mg,2025-05-06,2025-05-06.md,2025-05,Prescription
+"09:00, 22:00",Fexofenadine,120mg,2025-05-06,2025-05-06.md,2025-05,OTC
+09:00,Ritalin XR,2x18mg,2025-05-03,2025-05-03.md,2025-05,Prescription
+"15:20, 23:50",GTN Rectalgesic,1cm?,2025-05-03,2025-05-03.md,2025-05,Prescription
+09:00,Fexofenadine,120mg,2025-05-03,2025-05-03.md,2025-05,OTC
+08:50,Ritalin XR,2x18mg,2025-05-30,2025-05-30.md,2025-05,Prescription
+10:25,Guaifenesin,10mg,2025-05-30,2025-05-30.md,2025-05,OTC
+12:40,Ritalin XR,2x18mg,2025-05-13,2025-05-13.md,2025-05,Prescription
+20:26,GTN Rectalgesic,0.5cm?,2025-05-13,2025-05-13.md,2025-05,Prescription
+12:40,Fexofenadine,120mg,2025-05-13,2025-05-13.md,2025-05,OTC
+12:30,Fexofenadine,120mg,2025-05-15,2025-05-15.md,2025-05,OTC
+11:52,Ritalin XR,2x18mg,2025-05-31,2025-05-31.md,2025-05,Prescription
+11:52,Fexofenadine,120mg,2025-05-31,2025-05-31.md,2025-05,OTC
+11:40,Guaifenesin,10mg,2025-05-31,2025-05-31.md,2025-05,OTC
+08:27,Ritalin XR,2x18mg,2025-05-04,2025-05-04.md,2025-05,Prescription
+08:00,Fexofenadine,120mg,2025-05-04,2025-05-04.md,2025-05,OTC
+09:40,Ritalin XR,2x18mg,2025-05-09,2025-05-09.md,2025-05,Prescription
+09:40,Fexofenadine,120mg,2025-05-09,2025-05-09.md,2025-05,OTC
+10:00,Ritalin XR,2x18mg,2025-05-02,2025-05-02.md,2025-05,Prescription
+10:00,Fexofenadine,120mg,2025-05-02,2025-05-02.md,2025-05,OTC
+13:13,Ritalin XR,2x18mg,2025-05-21,2025-05-21.md,2025-05,Prescription
+13:13,Fexofenadine,120mg,2025-05-21,2025-05-21.md,2025-05,OTC
+"14:05, 18:10",Ritalin IR,5mg,2025-05-16,2025-05-16.md,2025-05,Prescription
+13:00,Fexofenadine,120mg,2025-05-16,2025-05-16.md,2025-05,OTC
+12:15,Ritalin XR,2x18mg,2025-05-26,2025-05-26.md,2025-05,Prescription
+12:15,Fexofenadine,120mg,2025-05-26,2025-05-26.md,2025-05,OTC
+10:00,Ritalin XR,2x18mg,2025-05-07,2025-05-07.md,2025-05,Prescription
+10:00,Fexofenadine,120mg,2025-05-07,2025-05-07.md,2025-05,OTC
+15:15,Ibuprofen,200mg,2025-05-07,2025-05-07.md,2025-05,OTC
+18:15,Ritalin IR,5mg,2025-05-10,2025-05-10.md,2025-05,Prescription
+17:05,Fexofenadine,120mg,2025-05-10,2025-05-10.md,2025-05,OTC
+16:40,Ritalin XR,2x18mg,2025-05-18,2025-05-18.md,2025-05,Prescription
+16:35,Fexofenadine,120mg,2025-05-18,2025-05-18.md,2025-05,OTC
+13:40,Ritalin XR,2x18mg,2025-05-28,2025-05-28.md,2025-05,Prescription
+"03:36, 18:15",GTN Rectalgesic,1cm?,2025-05-28,2025-05-28.md,2025-05,Prescription
+13:40,Fexofenadine,120mg,2025-05-28,2025-05-28.md,2025-05,OTC
+21:30,Paracetamol,2x500mg,2025-05-28,2025-05-28.md,2025-05,OTC
+18:25,Hexylresorcinol MAc Dual Action Lozenge,1,2025-05-28,2025-05-28.md,2025-05,OTC
+09:35,Ritalin XR,2x18mg,2025-05-05,2025-05-05.md,2025-05,Prescription
+"11:25, 23:20",GTN Rectalgesic,1cm?,2025-05-05,2025-05-05.md,2025-05,Prescription
+08:55,Fexofenadine,120mg,2025-05-05,2025-05-05.md,2025-05,OTC
+05:27,Fexofenadine,120mg,2025-05-19,2025-05-19.md,2025-05,OTC
+17,Hexylresorcinol,2.4mg,2025-05-19,2025-05-19.md,2025-05,OTC
+19:20,Ibuprofen,400mg,2025-05-19,2025-05-19.md,2025-05,OTC
+12:10,Ritalin XR,2x18mg,2025-05-17,2025-05-17.md,2025-05,Prescription
+12:10,Fexofenadine,120mg,2025-05-17,2025-05-17.md,2025-05,OTC
+10:00,Ritalin XR,2x18mg,2025-07-22,2025-07-22.md,2025-07,Prescription
+10:00,Fexofenadine,120mg,2025-07-22,2025-07-22.md,2025-07,OTC
+13:00,Ritalin IR,1.5x5mg,2025-07-21,2025-07-21.md,2025-07,Prescription
+12:30,Fexofenadine,120mg,2025-07-21,2025-07-21.md,2025-07,OTC
+10:05,Ritalin XR,2x18mg,2025-07-11,2025-07-11.md,2025-07,Prescription
+14:50,GTN Rectalgesic,1cm?,2025-07-11,2025-07-11.md,2025-07,Prescription
+22:34,Fexofenadine,120mg,2025-07-11,2025-07-11.md,2025-07,OTC
+09:42,Ritalin XR,2x18mg,2025-07-12,2025-07-12.md,2025-07,Prescription
+"19:45, 20:10",GTN Rectalgesic,1cm?,2025-07-12,2025-07-12.md,2025-07,Prescription
+13:40,Ritalin XR,2x18mg,2025-07-29,2025-07-29.md,2025-07,Prescription
+13:40,Fexofenadine,120mg,2025-07-29,2025-07-29.md,2025-07,OTC
+08:22,Ritalin XR,2x18mg,2025-07-03,2025-07-03.md,2025-07,Prescription
+23:40,GTN Rectalgesic,1cm?,2025-07-03,2025-07-03.md,2025-07,Prescription
+07:05,Fexofenadine,120mg,2025-07-03,2025-07-03.md,2025-07,OTC
+12:50,Ritalin XR,2x18mg,2025-07-01,2025-07-01.md,2025-07,Prescription
+12:50,Fexofenadine,120mg,2025-07-01,2025-07-01.md,2025-07,OTC
+10:15,Ritalin XR,2x18mg,2025-07-02,2025-07-02.md,2025-07,Prescription
+10:00,Fexofenadine,120mg,2025-07-02,2025-07-02.md,2025-07,OTC
+11:25,Ritalin IR,5mg,2025-07-05,2025-07-05.md,2025-07,Prescription
+"15:30, 20:48",GTN Rectalgesic,1cm?,2025-07-05,2025-07-05.md,2025-07,Prescription
+08:00,Fexofenadine,120mg,2025-07-05,2025-07-05.md,2025-07,OTC
+13:15,Ritalin XR,2x18mg,2025-07-31,2025-07-31.md,2025-07,Prescription
+13:15,Fexofenadine,120mg,2025-07-31,2025-07-31.md,2025-07,OTC
+09:30,Ritalin XR,2x18mg,2025-07-09,2025-07-09.md,2025-07,Prescription
+"22:00, 23:30",GTN Rectalgesic,1cm?,2025-07-09,2025-07-09.md,2025-07,Prescription
+00:12,Fexofenadine,120mg,2025-07-09,2025-07-09.md,2025-07,OTC
+09:05,Ritalin XR,2x18mg,2025-07-13,2025-07-13.md,2025-07,Prescription
+"13:02, 19:55",GTN Rectalgesic,1cm?,2025-07-13,2025-07-13.md,2025-07,Prescription
+12:35,Fexofenadine,120mg,2025-07-13,2025-07-13.md,2025-07,OTC
+10:00,Ritalin XR,2x18mg,2025-07-23,2025-07-23.md,2025-07,Prescription
+17:40,GTN Rectalgesic,1cm?,2025-07-23,2025-07-23.md,2025-07,Prescription
+10:00,Fexofenadine,120mg,2025-07-23,2025-07-23.md,2025-07,OTC
+08:48,Ritalin XR,2x18mg,2025-07-25,2025-07-25.md,2025-07,Prescription
+19:15,GTN Rectalgesic,1cm?,2025-07-25,2025-07-25.md,2025-07,Prescription
+08:00,Fexofenadine,120mg,2025-07-25,2025-07-25.md,2025-07,OTC
+12:28,Ritalin XR,2x18mg,2025-07-18,2025-07-18.md,2025-07,Prescription
+12:28,Fexofenadine,120mg,2025-07-18,2025-07-18.md,2025-07,OTC
+12:30,Magnesium Oxide,500mg,2025-07-18,2025-07-18.md,2025-07,OTC
+08:58,Ritalin XR,2x18mg,2025-07-04,2025-07-04.md,2025-07,Prescription
+08:00,Fexofenadine,120mg,2025-07-04,2025-07-04.md,2025-07,OTC
+10:35,Ritalin XR,2x18mg,2025-07-27,2025-07-27.md,2025-07,Prescription
+10:35,Fexofenadine,120mg,2025-07-27,2025-07-27.md,2025-07,OTC
+07:15,Ritalin IR,5mg,2025-07-30,2025-07-30.md,2025-07,Prescription
+04:45,Fexofenadine,120mg,2025-07-30,2025-07-30.md,2025-07,OTC
+10:54,Ritalin XR,2x18mg,2025-07-08,2025-07-08.md,2025-07,Prescription
+23:50,GTN Rectalgesic,1cm?,2025-07-08,2025-07-08.md,2025-07,Prescription
+01:30,Fexofenadine,120mg,2025-07-08,2025-07-08.md,2025-07,OTC
+09:10,Ritalin XR,2x18mg,2025-07-06,2025-07-06.md,2025-07,Prescription
+"00:53, 12:05",GTN Rectalgesic,1cm?,2025-07-06,2025-07-06.md,2025-07,Prescription
+08:30,Fexofenadine,120mg,2025-07-06,2025-07-06.md,2025-07,OTC
+10:15,Ritalin XR,2x18mg,2025-07-24,2025-07-24.md,2025-07,Prescription
+18:00,GTN Rectalgesic,1cm?,2025-07-24,2025-07-24.md,2025-07,Prescription
+06:00,Fexofenadine,120mg,2025-07-24,2025-07-24.md,2025-07,OTC
+13:10,Ritalin XR,2x18mg,2025-07-20,2025-07-20.md,2025-07,Prescription
+13:10,Fexofenadine,120mg,2025-07-20,2025-07-20.md,2025-07,OTC
+15:02,Vitamin D3,2000 IU,2025-07-20,2025-07-20.md,2025-07,OTC
+08:55,Ritalin XR,2x18mg,2025-07-15,2025-07-15.md,2025-07,Prescription
+08:45,Fexofenadine,120mg,2025-07-15,2025-07-15.md,2025-07,OTC
+23:30,Fexofenadine,120mg,2025-07-10,2025-07-10.md,2025-07,OTC
+14:03,Ritalin IR,5mg,2025-07-17,2025-07-17.md,2025-07,Prescription
+14:03,Fexofenadine,120mg,2025-07-17,2025-07-17.md,2025-07,OTC
+09:00,Ritalin XR,2x18mg,2025-07-14,2025-07-14.md,2025-07,Prescription
+20:40,GTN Rectalgesic,1cm?,2025-07-14,2025-07-14.md,2025-07,Prescription
+09:00,Fexofenadine,120mg,2025-07-14,2025-07-14.md,2025-07,OTC
+12:18,Ritalin XR,2x18mg,2025-07-19,2025-07-19.md,2025-07,Prescription
+12:18,Fexofenadine,120mg,2025-07-19,2025-07-19.md,2025-07,OTC
+11:37,Ritalin XR,2x18mg,2025-07-26,2025-07-26.md,2025-07,Prescription
+11:37,Fexofenadine,120mg,2025-07-26,2025-07-26.md,2025-07,OTC
+17:25,Paracetamol,1x500mg,2025-07-26,2025-07-26.md,2025-07,OTC
+07:40,Ritalin XR,2x18mg,2025-07-16,2025-07-16.md,2025-07,Prescription
+13:40,Paracetamol,2x500mg,2025-07-16,2025-07-16.md,2025-07,OTC
+12:15,Ritalin XR,2x18mg,2025-07-28,2025-07-28.md,2025-07,Prescription
+12:15,Fexofenadine,120mg,2025-07-28,2025-07-28.md,2025-07,OTC
+09:20,Ritalin XR,2x18mg,2025-07-07,2025-07-07.md,2025-07,Prescription
+01:21,GTN Rectalgesic,1cm?,2025-07-07,2025-07-07.md,2025-07,Prescription
+01:21,Fexofenadine,120mg,2025-07-07,2025-07-07.md,2025-07,OTC
+08:25,Ritalin XR,2x18mg,2025-10-09,2025-10-09.md,2025-10,Prescription
+08:25,Fexofenadine,120mg,2025-10-09,2025-10-09.md,2025-10,OTC
+07:18,Ritalin XR,2x18mg,2025-10-06,2025-10-06.md,2025-10,Prescription
+07:18,Fexofenadine,120mg,2025-10-06,2025-10-06.md,2025-10,OTC
+20:08,Ritalin XR,2x18mg,2025-10-07,2025-10-07.md,2025-10,Prescription
+20:08,Fexofenadine,120mg,2025-10-07,2025-10-07.md,2025-10,OTC
+13:16,Ritalin XR,2x18mg,2025-10-03,2025-10-03.md,2025-10,Prescription
+13:16,Fexofenadine,120mg,2025-10-03,2025-10-03.md,2025-10,OTC
+15:05,Covonia,20ml,2025-10-03,2025-10-03.md,2025-10,OTC
+11:20,Ritalin IR,5mg,2025-10-21,2025-10-21.md,2025-10,Prescription
+11:43,Fexofenadine,120mg,2025-10-21,2025-10-21.md,2025-10,OTC
+22:54,Covonia,10ml,2025-10-21,2025-10-21.md,2025-10,OTC
+15:00,Ritalin IR,5mg,2025-10-25,2025-10-25.md,2025-10,Prescription
+15:00,Fexofenadine,120mg,2025-10-25,2025-10-25.md,2025-10,OTC
+20:00,Ritalin XR,2x18mg,2025-10-10,2025-10-10.md,2025-10,Prescription
+20:00,Fexofenadine,120mg,2025-10-10,2025-10-10.md,2025-10,OTC
+08:50,Ritalin XR,2x18mg,2025-10-30,2025-10-30.md,2025-10,Prescription
+08:50,Fexofenadine,120mg,2025-10-30,2025-10-30.md,2025-10,OTC
+08:20,Ritalin XR,2x18mg,2025-10-08,2025-10-08.md,2025-10,Prescription
+08:20,Fexofenadine,120mg,2025-10-08,2025-10-08.md,2025-10,OTC
+22:36,Ritalin XR,2x18mg,2025-10-15,2025-10-15.md,2025-10,Prescription
+22:36,Fexofenadine,120mg,2025-10-15,2025-10-15.md,2025-10,OTC
+06:21,Ritalin XR,2x18mg,2025-10-11,2025-10-11.md,2025-10,Prescription
+06:21,Fexofenadine,120mg,2025-10-11,2025-10-11.md,2025-10,OTC
+09:42,Ritalin XR,2x18mg,2025-10-26,2025-10-26.md,2025-10,Prescription
+09:42,Fexofenadine,120mg,2025-10-26,2025-10-26.md,2025-10,OTC
+08:39,Ritalin XR,2x18mg,2025-10-19,2025-10-19.md,2025-10,Prescription
+08:39,Fexofenadine,120mg,2025-10-19,2025-10-19.md,2025-10,OTC
+06:45,Ritalin XR,2x18mg,2025-10-12,2025-10-12.md,2025-10,Prescription
+06:45,Fexofenadine,120mg,2025-10-12,2025-10-12.md,2025-10,OTC
+11:26,Ritalin XR,2x18mg,2025-10-13,2025-10-13.md,2025-10,Prescription
+11:26,Fexofenadine,120mg,2025-10-13,2025-10-13.md,2025-10,OTC
+07:15,Ritalin IR,5mg,2025-10-04,2025-10-04.md,2025-10,Prescription
+07:15,Fexofenadine,120mg,2025-10-04,2025-10-04.md,2025-10,OTC
+08:10,Ritalin XR,2x18mg,2025-10-20,2025-10-20.md,2025-10,Prescription
+08:10,Fexofenadine,120mg,2025-10-20,2025-10-20.md,2025-10,OTC
+09:00,Ritalin XR,2x18mg,2025-10-31,2025-10-31.md,2025-10,Prescription
+08:22,Ritalin XR,2x18mg,2025-10-17,2025-10-17.md,2025-10,Prescription
+08:22,Fexofenadine,120mg,2025-10-17,2025-10-17.md,2025-10,OTC
+10:15,Stugeron,15mg,2025-10-17,2025-10-17.md,2025-10,OTC
+10:00,Ritalin XR,2x18mg,2025-10-01,2025-10-01.md,2025-10,Prescription
+10:00,Fexofenadine,120mg,2025-10-01,2025-10-01.md,2025-10,OTC
+09:30,Ritalin XR,2x18mg,2025-10-18,2025-10-18.md,2025-10,Prescription
+09:22,Fexofenadine,120mg,2025-10-18,2025-10-18.md,2025-10,OTC
+08:20,Ritalin XR,2x18mg,2025-10-24,2025-10-24.md,2025-10,Prescription
+08:20,Fexofenadine,120mg,2025-10-24,2025-10-24.md,2025-10,OTC
+11:25,Mucus Cough Relief (Guaifenasin),10ml,2025-10-24,2025-10-24.md,2025-10,OTC
+10:00,Ritalin XR,2x18mg,2025-10-29,2025-10-29.md,2025-10,Prescription
+10:00,Fexofenadine,120mg,2025-10-29,2025-10-29.md,2025-10,OTC
+07:18,Ritalin XR,2x18mg,2025-10-05,2025-10-05.md,2025-10,Prescription
+07:18,Fexofenadine,120mg,2025-10-05,2025-10-05.md,2025-10,OTC
+07:18,Paracetamol,2x500mg,2025-10-05,2025-10-05.md,2025-10,OTC
+08:14,Ritalin XR,2x18mg,2025-10-14,2025-10-14.md,2025-10,Prescription
+08:14,Fexofenadine,120mg,2025-10-14,2025-10-14.md,2025-10,OTC
+09:56,Stugeron (Cinazzerine),15mg,2025-10-14,2025-10-14.md,2025-10,OTC
+08:37,Ritalin XR,2x18mg,2025-10-28,2025-10-28.md,2025-10,Prescription
+08:37,Fexofenadine,120mg,2025-10-28,2025-10-28.md,2025-10,OTC
+10:20,Guafenesim,200mg,2025-10-28,2025-10-28.md,2025-10,OTC
+08:12,Ritalin XR,2x18mg,2025-10-16,2025-10-16.md,2025-10,Prescription
+08:12,Fexofenadine,120mg,2025-10-16,2025-10-16.md,2025-10,OTC
+19:13,Ritalin IR,5mg,2025-10-22,2025-10-22.md,2025-10,Prescription
+19:13,Fexofenadine,120mg,2025-10-22,2025-10-22.md,2025-10,OTC
+11:50,Ritalin XR,2x18mg,2025-10-02,2025-10-02.md,2025-10,Prescription
+11:50,Fexofenadine,120mg,2025-10-02,2025-10-02.md,2025-10,OTC
+15:25,Ritalin IR,5mg,2025-10-23,2025-10-23.md,2025-10,Prescription
+15:25,Fexofenadine,120mg,2025-10-23,2025-10-23.md,2025-10,OTC
+16:00,Mucus Cough Relief,10ml,2025-10-23,2025-10-23.md,2025-10,OTC
+12:29,Ritalin XR,2x18mg,2025-08-26,2025-08-26.md,2025-08,Prescription
+12:20,Fexofenadine,120mg,2025-08-26,2025-08-26.md,2025-08,OTC
+07:04,Ritalin XR,2x18mg,2025-08-13,2025-08-13.md,2025-08,Prescription
+07:04,Fexofenadine,120mg,2025-08-13,2025-08-13.md,2025-08,OTC
+14:13,Ritalin XR,2x18mg,2025-08-06,2025-08-06.md,2025-08,Prescription
+14:13,Fexofenadine,120mg,2025-08-06,2025-08-06.md,2025-08,OTC
+19:40,Vitamin D3,4000 IU,2025-08-06,2025-08-06.md,2025-08,OTC
+09:09,Ritalin XR,2x18mg,2025-08-05,2025-08-05.md,2025-08,Prescription
+09:09,Fexofenadine,120mg,2025-08-05,2025-08-05.md,2025-08,OTC
+01:37,Ritalin XR,2x18mg,2025-08-24,2025-08-24.md,2025-08,Prescription
+01:37,Fexofenadine,120mg,2025-08-24,2025-08-24.md,2025-08,OTC
+11:18,Ritalin XR,2x18mg,2025-08-01,2025-08-01.md,2025-08,Prescription
+11:30,Fexofenadine,120mg,2025-08-01,2025-08-01.md,2025-08,OTC
+11:40,Ritalin XR,2x18mg,2025-08-27,2025-08-27.md,2025-08,Prescription
+13:15,GTN Rectalgesic,1cm?,2025-08-27,2025-08-27.md,2025-08,Prescription
+08:30,Fexofenadine,120mg,2025-08-27,2025-08-27.md,2025-08,OTC
+09:31,Ritalin XR,2x18mg,2025-08-17,2025-08-17.md,2025-08,Prescription
+07:36,Fexofenadine,120mg,2025-08-17,2025-08-17.md,2025-08,OTC
+09:05,Ritalin XR,2x18mg,2025-08-19,2025-08-19.md,2025-08,Prescription
+09:12,Fexofenadine,120mg,2025-08-19,2025-08-19.md,2025-08,OTC
+09:35,Ritalin XR,2x18mg,2025-08-31,2025-08-31.md,2025-08,Prescription
+09:35,Fexofenadine,120mg,2025-08-31,2025-08-31.md,2025-08,OTC
+11:35,Ritalin XR,2x18mg,2025-08-11,2025-08-11.md,2025-08,Prescription
+11:35,Fexofenadine,120mg,2025-08-11,2025-08-11.md,2025-08,OTC
+09:30,Ritalin XR,2x18mg,2025-08-20,2025-08-20.md,2025-08,Prescription
+10:30,GTN Rectalgesic,1cm?,2025-08-20,2025-08-20.md,2025-08,Prescription
+09:00,Fexofenadine,120mg,2025-08-20,2025-08-20.md,2025-08,OTC
+09:40,Ritalin XR,2x18mg,2025-08-03,2025-08-03.md,2025-08,Prescription
+09:40,Fexofenadine,120mg,2025-08-03,2025-08-03.md,2025-08,OTC
+08:56,Ritalin XR,2x18mg,2025-08-07,2025-08-07.md,2025-08,Prescription
+23:59,GTN Rectalgesic,1cm?,2025-08-07,2025-08-07.md,2025-08,Prescription
+08:00,Fexofenadine,120mg,2025-08-07,2025-08-07.md,2025-08,OTC
+11:51,Ritalin XR,2x18mg,2025-08-14,2025-08-14.md,2025-08,Prescription
+12:10,GTN Rectalgesic,1cm?,2025-08-14,2025-08-14.md,2025-08,Prescription
+11:51,Fexofenadine,120mg,2025-08-14,2025-08-14.md,2025-08,OTC
+13:47,Ritalin XR,2x18mg,2025-08-28,2025-08-28.md,2025-08,Prescription
+13:46,Fexofenadine,120mg,2025-08-28,2025-08-28.md,2025-08,OTC
+12:49,Ritalin XR,2x18mg,2025-08-30,2025-08-30.md,2025-08,Prescription
+12:46,Fexofenadine,120mg,2025-08-30,2025-08-30.md,2025-08,OTC
+12:17,Ritalin XR,2x18mg,2025-08-15,2025-08-15.md,2025-08,Prescription
+"12:12, 12:40",GTN Rectalgesic,1cm?,2025-08-15,2025-08-15.md,2025-08,Prescription
+12:02,Fexofenadine,120mg,2025-08-15,2025-08-15.md,2025-08,OTC
+18:42,Ritalin IR,5mg,2025-08-29,2025-08-29.md,2025-08,Prescription
+18:21,Fexofenadine,120mg,2025-08-29,2025-08-29.md,2025-08,OTC
+13:25,Ritalin XR,2x18mg,2025-08-09,2025-08-09.md,2025-08,Prescription
+13:25,Fexofenadine,120mg,2025-08-09,2025-08-09.md,2025-08,OTC
+14:24,Ritalin XR,2x18mg,2025-08-12,2025-08-12.md,2025-08,Prescription
+13:15,Fexofenadine,120mg,2025-08-12,2025-08-12.md,2025-08,OTC
+09:08,Ritalin XR,2x18mg,2025-08-08,2025-08-08.md,2025-08,Prescription
+16:10,GTN Rectalgesic,1cm?,2025-08-08,2025-08-08.md,2025-08,Prescription
+09:08,Fexofenadine,120mg,2025-08-08,2025-08-08.md,2025-08,OTC
+12:22,Ritalin XR,2x18mg,2025-08-10,2025-08-10.md,2025-08,Prescription
+09:00,Fexofenadine,120mg,2025-08-10,2025-08-10.md,2025-08,OTC
+08:15,Ritalin XR,2x18mg,2025-08-22,2025-08-22.md,2025-08,Prescription
+08:15,Fexofenadine,120mg,2025-08-22,2025-08-22.md,2025-08,OTC
+13:30,Ritalin XR,2x18mg,2025-08-23,2025-08-23.md,2025-08,Prescription
+13:30,Fexofenadine,120mg,2025-08-23,2025-08-23.md,2025-08,OTC
+10:55,Ritalin XR,2x18mg,2025-08-25,2025-08-25.md,2025-08,Prescription
+10:55,Fexofenadine,120mg,2025-08-25,2025-08-25.md,2025-08,OTC
+09:10,Ritalin XR,2x18mg,2025-08-21,2025-08-21.md,2025-08,Prescription
+09:10,Fexofenadine,120mg,2025-08-21,2025-08-21.md,2025-08,OTC
+15:08,Ritalin XR,2x18mg,2025-08-18,2025-08-18.md,2025-08,Prescription
+15:08,Fexofenadine,120mg,2025-08-18,2025-08-18.md,2025-08,OTC
+07:09,Ritalin XR,2x18mg,2025-08-02,2025-08-02.md,2025-08,Prescription
+22:20,GTN Rectalgesic,1cm?,2025-08-02,2025-08-02.md,2025-08,Prescription
+07:09,Fexofenadine,120mg,2025-08-02,2025-08-02.md,2025-08,OTC
+11:11,Ritalin XR,2x18mg,2025-08-16,2025-08-16.md,2025-08,Prescription
+11:11,Fexofenadine,120mg,2025-08-16,2025-08-16.md,2025-08,OTC
+12:58,Ritalin XR,2x18mg,2025-08-04,2025-08-04.md,2025-08,Prescription
+12:58,Fexofenadine,120mg,2025-08-04,2025-08-04.md,2025-08,OTC
+09:01,Ritalin XR,2x18mg,2025-09-16,2025-09-16.md,2025-09,Prescription
+09:01,Fexofenadine,120mg,2025-09-16,2025-09-16.md,2025-09,OTC
+13:45,Ritalin XR,2x18mg,2025-09-09,2025-09-09.md,2025-09,Prescription
+13:32,Fexofenadine,120mg,2025-09-09,2025-09-09.md,2025-09,OTC
+09:21,Ritalin XR,2x18mg,2025-09-02,2025-09-02.md,2025-09,Prescription
+09:21,Fexofenadine,120mg,2025-09-02,2025-09-02.md,2025-09,OTC
+13:21,Ritalin XR,2x18mg,2025-09-15,2025-09-15.md,2025-09,Prescription
+13:21,Fexofenadine,120mg,2025-09-15,2025-09-15.md,2025-09,OTC
+12:59,Ritalin XR,2x18mg,2025-09-12,2025-09-12.md,2025-09,Prescription
+12:59,Fexofenadine,120mg,2025-09-12,2025-09-12.md,2025-09,OTC
+13:06,Ritalin XR,2x18mg,2025-09-10,2025-09-10.md,2025-09,Prescription
+13:06,Fexofenadine,120mg,2025-09-10,2025-09-10.md,2025-09,OTC
+13:04,Ritalin XR,2x18mg,2025-09-27,2025-09-27.md,2025-09,Prescription
+13:04,Fexofenadine,120mg,2025-09-27,2025-09-27.md,2025-09,OTC
+12:04,Ritalin XR,2x18mg,2025-09-03,2025-09-03.md,2025-09,Prescription
+12:04,Fexofenadine,120mg,2025-09-03,2025-09-03.md,2025-09,OTC
+14:36,Ritalin XR,2x18mg,2025-09-07,2025-09-07.md,2025-09,Prescription
+14:36,Fexofenadine,120mg,2025-09-07,2025-09-07.md,2025-09,OTC
+11:55,Ritalin XR,2x18mg,2025-09-25,2025-09-25.md,2025-09,Prescription
+11:55,Fexofenadine,120mg,2025-09-25,2025-09-25.md,2025-09,OTC
+08:34,Ritalin XR,2x18mg,2025-09-29,2025-09-29.md,2025-09,Prescription
+08:34,Fexofenadine,120mg,2025-09-29,2025-09-29.md,2025-09,OTC
+11:10,Ritalin XR,2x18mg,2025-09-30,2025-09-30.md,2025-09,Prescription
+11:10,Fexofenadine,120mg,2025-09-30,2025-09-30.md,2025-09,OTC
+14:00,Ritalin XR,2x18mg,2025-09-17,2025-09-17.md,2025-09,Prescription
+14:00,Fexofenadine,120mg,2025-09-17,2025-09-17.md,2025-09,OTC
+10:12,Ritalin XR,2x18mg,2025-09-20,2025-09-20.md,2025-09,Prescription
+10:12,Fexofenadine,120mg,2025-09-20,2025-09-20.md,2025-09,OTC
+11:04,Ritalin XR,2x18mg,2025-09-28,2025-09-28.md,2025-09,Prescription
+11:04,Fexofenadine,120mg,2025-09-28,2025-09-28.md,2025-09,OTC
+15:25,Ritalin IR,5mg,2025-09-08,2025-09-08.md,2025-09,Prescription
+15:13,Fexofenadine,120mg,2025-09-08,2025-09-08.md,2025-09,OTC
+07:59,Ritalin XR,2x18mg,2025-09-23,2025-09-23.md,2025-09,Prescription
+07:59,Fexofenadine,120mg,2025-09-23,2025-09-23.md,2025-09,OTC
+13:29,Ritalin XR,2x18mg,2025-09-04,2025-09-04.md,2025-09,Prescription
+13:29,Fexofenadine,120mg,2025-09-04,2025-09-04.md,2025-09,OTC
+16:40,Ritalin IR,5mg,2025-09-06,2025-09-06.md,2025-09,Prescription
+16:40,Fexofenadine,120mg,2025-09-06,2025-09-06.md,2025-09,OTC
+09:07,Ritalin XR,2x18mg,2025-09-14,2025-09-14.md,2025-09,Prescription
+09:07,Fexofenadine,120mg,2025-09-14,2025-09-14.md,2025-09,OTC
+09:12,Ritalin XR,2x18mg,2025-09-19,2025-09-19.md,2025-09,Prescription
+09:12,Fexofenadine,120mg,2025-09-19,2025-09-19.md,2025-09,OTC
+09:39,Ritalin XR,2x18mg,2025-09-01,2025-09-01.md,2025-09,Prescription
+08:45,Fexofenadine,120mg,2025-09-01,2025-09-01.md,2025-09,OTC
+13:21,Ritalin XR,2x18mg,2025-09-22,2025-09-22.md,2025-09,Prescription
+13:21,Fexofenadine,120mg,2025-09-22,2025-09-22.md,2025-09,OTC
+09:25,Ritalin XR,2x18mg,2025-09-24,2025-09-24.md,2025-09,Prescription
+09:25,Fexofenadine,120mg,2025-09-24,2025-09-24.md,2025-09,OTC
+11:54,Ritalin XR,2x18mg,2025-09-26,2025-09-26.md,2025-09,Prescription
+11:54,Fexofenadine,120mg,2025-09-26,2025-09-26.md,2025-09,OTC
+12:10,Ritalin XR,2x18mg,2025-09-21,2025-09-21.md,2025-09,Prescription
+12:10,Fexofenadine,120mg,2025-09-21,2025-09-21.md,2025-09,OTC
+10:22,Ritalin XR,2x18mg,2025-09-13,2025-09-13.md,2025-09,Prescription
+10:22,Fexofenadine,120mg,2025-09-13,2025-09-13.md,2025-09,OTC
+09:58,Ritalin XR,2x18mg,2025-09-18,2025-09-18.md,2025-09,Prescription
+09:58,Fexofenadine,120mg,2025-09-18,2025-09-18.md,2025-09,OTC
+16:45,Ritalin IR,5mg,2025-09-05,2025-09-05.md,2025-09,Prescription
+16:45,Fexofenadine,120mg,2025-09-05,2025-09-05.md,2025-09,OTC
+13:40,Ritalin XR,2x18mg,2025-09-11,2025-09-11.md,2025-09,Prescription
+13:51,Fexofenadine,120mg,2025-09-11,2025-09-11.md,2025-09,OTC
+08:30,Ritalin XR,2x18mg,2025-11-13,2025-11-13.md,2025-11,Prescription
+08:30,Fexofenadine,120mg,2025-11-13,2025-11-13.md,2025-11,OTC
+13:10,Paracetamol,500mg,2025-11-13,2025-11-13.md,2025-11,OTC
+10:45,Ritalin XR,2x18mg,2025-11-07,2025-11-07.md,2025-11,Prescription
+09:11,Ritalin XR,2x18mg,2025-11-26,2025-11-26.md,2025-11,Prescription
+19:10,Ritalin IR,5mg,2025-11-26,2025-11-26.md,2025-11,Prescription
+09:11,Fexofenadine,120mg,2025-11-26,2025-11-26.md,2025-11,OTC
+09:10,Ritalin XR,2x18mg,2025-11-11,2025-11-11.md,2025-11,Prescription
+09:10,Fexofenadine,120mg,2025-11-11,2025-11-11.md,2025-11,OTC
+16:15,Ritalin IR,5mg,2025-11-22,2025-11-22.md,2025-11,Prescription
+2-3x,GTN Rectalgesic,1cm?,2025-11-22,2025-11-22.md,2025-11,Prescription
+16:15,Fexofenadine,120mg,2025-11-22,2025-11-22.md,2025-11,OTC
+09:30,Ritalin XR,2x18mg,2025-11-18,2025-11-18.md,2025-11,Prescription
+09:30,Fexofenadine,120mg,2025-11-18,2025-11-18.md,2025-11,OTC
+00:50,Paracetamol,2x500mg,2025-11-18,2025-11-18.md,2025-11,OTC
+00:50,Diazepam,2.5mg,2025-11-18,2025-11-18.md,2025-11,OTC
+11:00,Ritalin XR,2x18mg,2025-11-23,2025-11-23.md,2025-11,Prescription
+11:00,Fexofenadine,120mg,2025-11-23,2025-11-23.md,2025-11,OTC
+08:27,Ritalin XR,2x18mg,2025-11-03,2025-11-03.md,2025-11,Prescription
+08:59,Ritalin XR,2x18mg,2025-11-27,2025-11-27.md,2025-11,Prescription
+21:43,"(Decongest Superdrug) Phenylephrine, Paracetamol",2x,2025-11-27,2025-11-27.md,2025-11,Prescription
+08:59,Fexofenadine,120mg,2025-11-27,2025-11-27.md,2025-11,OTC
+09:00,Ritalin XR,2x18mg,2025-11-12,2025-11-12.md,2025-11,Prescription
+09:00,Fexofenadine,120mg,2025-11-12,2025-11-12.md,2025-11,OTC
+10:58,Ritalin XR,2x18mg,2025-11-08,2025-11-08.md,2025-11,Prescription
+08:46,Ritalin XR,2x18mg,2025-11-05,2025-11-05.md,2025-11,Prescription
+14:45,Paracetamol,1.5x500mg,2025-11-05,2025-11-05.md,2025-11,OTC
+15:46,Ritalin IR,5mg,2025-11-15,2025-11-15.md,2025-11,Prescription
+19:50,Ritalin,2.5mg,2025-11-15,2025-11-15.md,2025-11,Prescription
+15:03,Fexofenadine,120mg,2025-11-15,2025-11-15.md,2025-11,OTC
+07:25,Ritalin XR,2x18mg,2025-11-24,2025-11-24.md,2025-11,Prescription
+18:25,Ritalin IR,5mg,2025-11-24,2025-11-24.md,2025-11,Prescription
+07:25,Fexofenadine,120mg,2025-11-24,2025-11-24.md,2025-11,OTC
+10:47,Ritalin XR,2x18mg,2025-11-14,2025-11-14.md,2025-11,Prescription
+10:47,Fexofenadine,120mg,2025-11-14,2025-11-14.md,2025-11,OTC
+08:47,Ritalin XR,2x18mg,2025-11-06,2025-11-06.md,2025-11,Prescription
+10:35,Ritalin IR,5mg,2025-11-09,2025-11-09.md,2025-11,Prescription
+08:50,Ritalin XR,2x18mg,2025-11-25,2025-11-25.md,2025-11,Prescription
+19:15,Ritalin IR,2.5mg,2025-11-25,2025-11-25.md,2025-11,Prescription
+08:50,Fexofenadine,120mg,2025-11-25,2025-11-25.md,2025-11,OTC
+09:12,Ritalin XR,2x18mg,2025-11-21,2025-11-21.md,2025-11,Prescription
+09:12,Fexofenadine,120mg,2025-11-21,2025-11-21.md,2025-11,OTC
+08:52,Ritalin XR,2x18mg,2025-11-10,2025-11-10.md,2025-11,Prescription
+10:47,Fexofenadine,120mg,2025-11-10,2025-11-10.md,2025-11,OTC
+11:14,Ritalin XR,18mg,2025-11-19,2025-11-19.md,2025-11,Prescription
+11:14,Fexofenadine,120mg,2025-11-19,2025-11-19.md,2025-11,OTC
+09:24,Ritalin XR,2x18mg,2025-11-20,2025-11-20.md,2025-11,Prescription
+09:24,Fexofenadine,120mg,2025-11-20,2025-11-20.md,2025-11,OTC
+13:08,Ritalin XR,2x18mg,2025-11-17,2025-11-17.md,2025-11,Prescription
+13:08,Fexofenadine,120mg,2025-11-17,2025-11-17.md,2025-11,OTC
+08:13,Ritalin XR,2x18mg,2025-11-28,2025-11-28.md,2025-11,Prescription
+08:13,Fexofenadine,120mg,2025-11-28,2025-11-28.md,2025-11,OTC
+17:09,Ritalin IR,5mg,2025-11-30,2025-11-30.md,2025-11,Prescription
+17:09,Fexofenadine,120mg,2025-11-30,2025-11-30.md,2025-11,OTC
+09:34,Ritalin XR,2x18mg,2025-11-02,2025-11-02.md,2025-11,Prescription
+08:51,Ritalin XR,2x18mg,2025-11-04,2025-11-04.md,2025-11,Prescription
+11:05,Paracetamol,500mg,2025-11-04,2025-11-04.md,2025-11,OTC
+13:30,Ritalin IR,5mg,2025-11-16,2025-11-16.md,2025-11,Prescription
+13:30,Fexofenadine,120mg,2025-11-16,2025-11-16.md,2025-11,OTC
