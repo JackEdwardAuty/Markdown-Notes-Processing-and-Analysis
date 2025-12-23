@@ -10,8 +10,7 @@ Over the past few years I have been using the popular Markdown editor, Obsidian,
 Here is a screenshot of the final Tableau Dashboard used in my graduation:
 ![Tableau Dashboard Screenshot](https://github.com/JackEdwardAuty/Markdown-Notes-Processing-and-Analysis/blob/main/Tableau%20Dashboard.png)
 
-Here is a link to the live dashboard, GitHub doesn't allow embed:
-![Tableau Dashboard Link]([link_to_embed](https://public.tableau.com/views/TableauVisualisationExplore/MedicationTimingWakePatternsandAdheranceStreaks?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+Here is a ![link to the live dashboard](https://public.tableau.com/views/TableauVisualisationExplore/MedicationTimingWakePatternsandAdheranceStreaks?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), GitHub doesn't allow embed.
 
 ## The usefulness of the Obsidian Vault
 
